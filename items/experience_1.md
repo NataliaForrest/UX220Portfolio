@@ -1,25 +1,12 @@
-## Taking Karate classes
+## Share Anywhere 
 
-### What was it that you did?
+This was one of my first individual UX projects that I learned a lot from making. My goal for this project was to create an app for anyone who shares a passion for art and wants to bring awareness to their name. This app covers a wide range of talent, including video categories such as music, dancing, acting or art. During the pandemic and isolation, it must be difficult for people who wish to bring awareness to their artistic skills and only relying on variety of online platforms. However, I've introduced the possibility for those dedicated to art and want to share or watch this kind of content. 
 
-I spent 8 years taking karate classes.
+### My Angle
 
-### When did you do it? 
+My target audience for this project was for artistic users who wish to have their work shared online for the sole purpose of getting noticed. Or for those who wish to watch this content for entertainment. I find that this specific app can achieve these by specifically having content including music, dancing, acting or art that creators or viewers can have fun with as well as reach their desired goal.
 
-I started in 2008 and stopped around 2017.
+![ShareAnywhere](ShareAnywhere.jpg)
 
-### What was good about it? 
 
-It was a great learning experience and enjoyed doing it with my friend Selena.
 
-### What was your favorite memory of it? 
-
-My favorite memory was winning 1st place in a sparring Tournament. Sparring is fighting with protection gear on. 
-
-### What didn't you enjoy about it? 
-
-I did not enjoy the black belt test because it was 8-9 hours of consecutive exercise. As well as doing absolutely everything we've learned since white belt which was challenging.
-
-### Give your experience a letter "grade" 
-
-A-
